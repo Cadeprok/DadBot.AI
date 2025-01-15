@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+node_modules/
+.pnp/
+app/.env/
+.env/
 /.pnp
 .pnp.*
 .yarn/*
@@ -42,3 +46,5 @@ next-env.d.ts
 
 /venv
 venv
+.env
+env
